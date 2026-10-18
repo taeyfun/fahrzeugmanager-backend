@@ -1,10 +1,10 @@
-package com.example.demo;
+package htw.webtech.fahrzeugmanager;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemoApplicationTests {
+class FahrzeugmanagerApplicationTests {
 
 	@Test
 	void contextLoads() {
