@@ -1,3 +1,3 @@
 # fahrezugmanager-backend
 
-Internes Werkzeug, mit dem ein Autohaus seinen Bestand an Gebrauchtwagen verwaltet.
+Backend vom internem Werkzeug, mit dem ein Autohaus seinen Bestand an Gebrauchtwagen verwaltet.
