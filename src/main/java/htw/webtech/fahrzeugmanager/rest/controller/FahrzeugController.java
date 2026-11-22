@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import java.util.List;
 
-@CrossOrigin(origins = {"http://localhost:5173", "https://dein-frontend.onrender.com"})
+@CrossOrigin(origins = {"http://localhost:5173", "https://fahrzeugmanager-frontend.onrender.com"})
 
 @RestController
 public class FahrzeugController {
